@@ -13,7 +13,7 @@ function App() {
 
       {/* Event / cohort context line shown above the brand cards. */}
       <h3 className="bootcamp-title">
-        AWS Graduate Cloud Skills Accelerator — manual launch.
+        AWS Graduate Cloud Skills Accelerator — CI/CD launch.
       </h3>
 
       {/* Brand row: Academy and AWS visual identity. */}
@@ -45,7 +45,7 @@ function App() {
 
       {/* Supporting value statement. */}
       <p className="tagline">
-        Building the Next Generation of Cloud Engineers.
+        Shipped by CodePipeline — AWS Graduate Cloud Skills Accelerator.
       </p>
 
     </div>
